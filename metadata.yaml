@@ -1,0 +1,32 @@
+_repo: An-Alphabet-of-QuadrupedsComprising-descriptions-of-their-appearance-and-habits_40363
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 40363-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Anonymous
+    alias: Anonyme
+    gutenberg_agent_id: '216'
+    url: http://www.gutenberg.org/2009/agents/216
+    wikipedia:
+    - http://www.gutenberg.org/browse/authors/u#a49
+    - http://en.wikipedia.org/wiki/Anonymity
+description: ''
+gutenberg_issued: '2012-07-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40363'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Animals -- Pictorial works -- Juvenile literature'
+- !lcsh 'Alphabet books'
+- !lcc 'QL'
+title: 'An Alphabet of Quadrupeds
+
+  Comprising descriptions of their appearance and habits'
+url: http://www.gutenberg.org/ebooks/40363
